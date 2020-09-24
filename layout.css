@@ -140,3 +140,10 @@ body {
 .mainContent-text2 ul li {
 	margin-bottom: 10px;
 }
+
+@media(max-width: 670px ){
+   li {
+		 font-size: 13px;
+	 }
+
+}
